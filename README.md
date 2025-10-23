@@ -10,15 +10,15 @@ Objective:
 
 
 Tools used for Project:
-1. Excel:Consolidate data from various files using VLOOKUP
+1. Excel: Consolidate data from various files using VLOOKUP
 
-2. Power Query:It was used to clean, transform and append the data.
+2. Power Query: It was used to clean, transform and append the data.
 
-3. MySQL:Queries were framed for detailed analysis.
+3. MySQL: Queries were framed for detailed analysis.
 
-4. Power BI:All the KPI's were plotted on graphs and interactive dashboard was built for holistic analysis.
+4. Power BI: All the KPI's were plotted on graphs and interactive dashboard was built for holistic analysis.
 
-5.DAX:Use of Calculate and Time intelligence functions to dive deeper into data through mathematical formulas.
+5.DAX: Use of Calculate and Time intelligence functions to dive deeper into data through mathematical formulas.
 
 Key Insights Gained:
 1. The Airline Operated Across 104 Countries, 208 Airlines, 67 States, And 1,296 Cities, With 1,440 Destination Airports And 1,406 Origin Airports, Transporting Over 187 Million Passengers And Covering A Total Distance Of 82 Million Miles.
@@ -41,7 +41,7 @@ Conclusion:
 Through This Project, We have highlighted that Airlines need to focus on Short domestic flights in the long run, especially in continents like South Asia where the Population is growing at a faster pace. They should increase flight frequencies between Industrial corridors , IT hubs like Silicon valley and Political capitals.
 
 Dashboard:
-
+https://github.com/sanketjagtap1000/High-cloud-Airlines-Dashboard/blob/main/Dashboard%20screenshot.png
 
 
 
