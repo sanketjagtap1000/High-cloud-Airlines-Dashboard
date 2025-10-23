@@ -40,8 +40,9 @@ Other Notable Carriers Included US Airways, Continental Airlines, JetBlue, And A
 Conclusion:
 Through This Project, We have highlighted that Airlines need to focus on Short domestic flights in the long run, especially in continents like South Asia where the Population is growing at a faster pace. They should increase flight frequencies between Industrial corridors , IT hubs like Silicon valley and Political capitals.
 
-Dashboard:
-https://github.com/sanketjagtap1000/High-cloud-Airlines-Dashboard/blob/main/Dashboard%20screenshot.png
+Dashboard;
+
+<img width="887" height="500" alt="image" src="https://github.com/user-attachments/assets/b0b6354c-d9db-4a35-a965-6100f829fb36" />
 
 
 
